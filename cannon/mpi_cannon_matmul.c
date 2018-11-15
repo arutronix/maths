@@ -1,3 +1,8 @@
+
+// MATLAB code to plot the MPI cannon matrix product results
+// author: Aravind I and Kapil D.
+// date: 11/13/2018
+	
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
