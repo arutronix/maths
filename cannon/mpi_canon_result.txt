@@ -1,10 +1,10 @@
 proc = 4
-Execution time for dot product: 544.341190 seconds
+Execution time for cannon mat mul product: 544.341190 seconds
 Result: 45808946793085504.000000, 44801498369308160.000000, 46574449690103320.000000 
 proc = 16
-Execution time for dot product: 55.494490 seconds
+Execution time for cannon mat mul product: 55.494490 seconds
 Result: 45808946793085504.000000, 44801498369308160.000000, 46574449690103320.000000 
 proc = 64
-Execution time for dot product: 23.557356 seconds
+Execution time for cannon mat mul product: 23.557356 seconds
 Result: 45808946793085504.000000, 44801498369308160.000000, 46574449690103320.000000 
  
