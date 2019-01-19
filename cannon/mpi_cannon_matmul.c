@@ -1,5 +1,5 @@
 
-// MATLAB code to plot the MPI cannon matrix product results
+// C code MPI cannon matrix - matrix multiplication
 // authors: Aravind I and Kapil D.
 // date: 11/13/2018
 	
